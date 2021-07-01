@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your spooky App" />
+  <HelloWorld msg="Welcome to Your spooky~ App" />
 </template>
 
 <script>
